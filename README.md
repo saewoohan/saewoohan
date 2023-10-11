@@ -24,3 +24,9 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-E0234E.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)
+
+
+### Contacts
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@saewoohan/)]([https://soo-vely-dev.tistory.com/](https://velog.io/@saewoohan))
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hso2341@hanyang.ac.kr)](mailto:hso2341@hanyang.ac.kr)
