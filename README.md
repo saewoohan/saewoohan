@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ![sawoohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saewoohan&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saewoohan)](https://solved.ac/saewoohan/)
 
 ### 🔭 Tech Stacks
   
@@ -12,6 +11,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+
+### Algorithm
+
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saewoohan)](https://solved.ac/saewoohan/)
 
 ### 🌱 Learing Stacks
 
