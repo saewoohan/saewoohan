@@ -13,6 +13,7 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/nest.js-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-E0234E.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 
 ### 👀 Algorithm
 
@@ -20,12 +21,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saewoohan)](https://solved.ac/saewoohan/)
-
-### 🌱 Learing Stacks
-
-![Next.js](https://img.shields.io/badge/Next.js-E0234E.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)
-
 
 ### 🧑🏻‍💻 Contacts
 
