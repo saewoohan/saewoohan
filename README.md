@@ -25,4 +25,4 @@
 ### 🧑🏻‍💻 Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Velog-white?&style=for-the-badge&logo=Velog&link=https://velog.io/@saewoohan/)](https://velog.io/@saewoohan)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hso2341@hanyang.ac.kr)](mailto:hso2341@hanyang.ac.kr)
-[![Portfolio](https://img.shields.io/badge/homepage-1E90FF.svg?&style=for-the-badge&logo=homepage&logoColor=white&link=https://www.saewoohan.site/)](https://www.saewoohan.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF.svg?&style=for-the-badge&logo=homepage&logoColor=white&link=https://www.saewoohan.site/)](https://www.saewoohan.site/)
