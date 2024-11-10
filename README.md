@@ -26,4 +26,4 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@saewoohan/)](https://velog.io/@saewoohan)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hso2341@hanyang.ac.kr)](mailto:hso2341@hanyang.ac.kr)
-[![Portfolio](https://www.saewoohan.site/)
+[![Portfolio](https://img.shields.io/badge/homepage-1E90FF.svg?&style=for-the-badge&logo=homepage&logoColor=white)](https://www.saewoohan.site/)
