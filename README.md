@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![sawoohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saewoohan&show_icons=true&theme=radical)
+![sawoohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saewoohan&show_icons=true&count_private=true&theme=radical)
 
 ### 🔭 Tech Stacks
   
@@ -15,6 +15,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
+
+### 🏆 Certificates
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/9e90716e-eafd-44ef-98f2-23b195da1514/public_url)
 
 ### 👀 Algorithm
 
