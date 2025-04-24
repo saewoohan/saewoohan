@@ -25,8 +25,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hsoooo2341?theme=dark&font=Source%20Serif%20Pro&ext=heatmap)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saewoohan)](https://solved.ac/saewoohan/)
 
 ### 🧑🏻‍💻 Contacts
