@@ -20,13 +20,6 @@
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/9e90716e-eafd-44ef-98f2-23b195da1514/public_url)
 
-### 👀 Algorithm
-
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saewoohan)](https://solved.ac/saewoohan/)
-
 ### 🧑🏻‍💻 Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Velog-white?&style=for-the-badge&logo=Velog&link=https://velog.io/@saewoohan/)](https://velog.io/@saewoohan)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hso2341@hanyang.ac.kr)](mailto:hso2341@hanyang.ac.kr)
